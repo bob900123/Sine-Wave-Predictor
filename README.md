@@ -21,11 +21,22 @@ Plotly: 用於數據可視化
 要在本地運行此專案，請按照以下步驟操作：
 
 1. 複製倉庫
+
+```shell
    git clone https://github.com/yourusername/SineWaveMLP.git
+```
+
 2. 安裝依賴
+
+```shell
    pip install -r requirements.txt
+```
+
 3. 運行程式
+
+```shell
    python main.py
+```
 
 ## 授權
 
