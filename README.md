@@ -1,4 +1,4 @@
-# SineWavePredictor
+# Sine-Wave-Predictor
 
 ## 專案描述
 
